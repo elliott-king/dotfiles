@@ -1,5 +1,5 @@
 # Vim plugins
-#### Using Pathogen: https://github.com/tpope/vim-pathogen
+#### Using Vundle: https://github.com/VundleVim/Vundle.vim
 
 - **supertab:** tab for insert completion
 - **vim-airline:** bottom line shows progress
