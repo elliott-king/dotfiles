@@ -8,6 +8,7 @@ call vundle#begin()
 "call vundle#begin('~/some/path/here')
 
 " let Vundle manage Vundle, required
+" To install plugins, launch vim and run :PluginInstall
 Plugin 'VundleVim/Vundle.vim'
 
 " to test
