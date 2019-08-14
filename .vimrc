@@ -28,6 +28,11 @@ Plugin 'pangloss/vim-javascript'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set expandtab
+
 " YCM options.
 " To reset YCM server, :YcmRestartServer
 let g:ycm_autoclose_preview_window_after_completion = 1
